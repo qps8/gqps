@@ -1,0 +1,93 @@
+{
+    "clients": {
+        "Gqps": {
+            "version": "1.0.0",
+            "platforms": {
+	        "linux": {
+	          "x64": {
+	            "download": {
+	              "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-linux-amd64-1.0.0-6dc3d659.tar.gz",
+	              "type": "tar",
+	              "md5": "c050d50ba8d47b87d66b28cd704a9525",
+	              "bin": "gqps-linux-amd64-1.0.0-6dc3d659/gqps"
+	            },
+	            "bin": "gqps",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Gqps",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          },
+	          "ia32": {
+	            "download": {
+	              "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-linux-386-1.0.0-6dc3d659.tar.gz",
+	              "type": "tar",
+	              "md5": "6ecce9b979d66ec7e502d52e1d6b1f90",
+	              "bin": "gqps-linux-386-1.0.0-6dc3d659/gqps"
+	            },
+	            "bin": "gqps",
+	            "commands": {
+	              "sanity": {
+	                "args": [
+	                  "version"
+	                ],
+	                "output": [
+	                  "Gqps",
+	                  "1.0.0"
+	                ]
+	              }
+	            }
+	          }
+	        },
+                "win": {
+                    "x64": {
+                        "download": {
+                            "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-windows-amd64-1.0.0-6dc3d659.zip",
+                            "type": "zip",
+                            "md5": "c062d878ce183fb09189889a422b7978",
+                            "bin": "gqps-windows-amd64-1.0.0-6dc3d659\\gqps.exe"
+                        },
+                        "bin": "gqps.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Gqps",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    },
+                    "ia32": {
+                        "download": {
+                            "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-windows-386-1.0.0-6dc3d659.zip",
+                            "type": "zip",
+                            "md5": "706513126fce0e3c0cf43be7b4788fa6",
+                            "bin": "gqps-windows-386-1.0.0-6dc3d659\\gqps.exe"
+                        },
+                        "bin": "gqps.exe",
+                        "commands": {
+                            "sanity": {
+                                "args": [
+                                    "version"
+                                ],
+                                "output": [
+                                    "Gqps",
+                                    "1.0.0"
+                                ]
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
