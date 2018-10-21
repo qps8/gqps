@@ -8,7 +8,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-linux-amd64-1.0.0-6dc3d659.tar.gz",
 	              "type": "tar",
-	              "md5": "c050d50ba8d47b87d66b28cd704a9525",
+	              "md5": "aba7b97d95efb6283aa94a427fdb1b47",
 	              "bin": "gqps-linux-amd64-1.0.0-6dc3d659/gqps"
 	            },
 	            "bin": "gqps",
@@ -28,7 +28,7 @@
 	            "download": {
 	              "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-linux-386-1.0.0-6dc3d659.tar.gz",
 	              "type": "tar",
-	              "md5": "6ecce9b979d66ec7e502d52e1d6b1f90",
+	              "md5": "adbc580aaecedc5e6a2c4f21d0d13416",
 	              "bin": "gqps-linux-386-1.0.0-6dc3d659/gqps"
 	            },
 	            "bin": "gqps",
@@ -50,7 +50,7 @@
                         "download": {
                             "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-windows-amd64-1.0.0-6dc3d659.zip",
                             "type": "zip",
-                            "md5": "c062d878ce183fb09189889a422b7978",
+                            "md5": "d633aa12161ce894ec30626824a96e84",
                             "bin": "gqps-windows-amd64-1.0.0-6dc3d659\\gqps.exe"
                         },
                         "bin": "gqps.exe",
@@ -70,7 +70,7 @@
                         "download": {
                             "url": "http://207.148.104.9/qps8/gqps/releases/download/v1.0.0/gqps-windows-386-1.0.0-6dc3d659.zip",
                             "type": "zip",
-                            "md5": "706513126fce0e3c0cf43be7b4788fa6",
+                            "md5": "ba5ccee9077e8a53c612d4c6390fe96e",
                             "bin": "gqps-windows-386-1.0.0-6dc3d659\\gqps.exe"
                         },
                         "bin": "gqps.exe",
